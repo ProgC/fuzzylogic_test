@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 613570bab91ddf14cbb0ccdc4c6cc103
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera01
+    100002: Camera01.Target
+    100004: //RootNode
+    100006: cobrar01
+    100008: cobrar02
+    100010: part 24
+    100012: part 25
+    100014: part 26
+    100016: part 27
+    100018: part 28
+    100020: part 29
+    100022: part 30
+    100024: part 31
+    100026: part 32
+    100028: part 33
+    100030: part 34
+    100032: part 35
+    100034: part 36
+    100036: part 37
+    100038: part 38
+    100040: part 39
+    100042: part 40
+    100044: part 41
+    100046: part 42
+    100048: part 43
+    100050: part 44
+    100052: part 45
+    100054: part 46
+    100056: reflect_box01
+    400000: Camera01
+    400002: Camera01.Target
+    400004: //RootNode
+    400006: cobrar01
+    400008: cobrar02
+    400010: part 24
+    400012: part 25
+    400014: part 26
+    400016: part 27
+    400018: part 28
+    400020: part 29
+    400022: part 30
+    400024: part 31
+    400026: part 32
+    400028: part 33
+    400030: part 34
+    400032: part 35
+    400034: part 36
+    400036: part 37
+    400038: part 38
+    400040: part 39
+    400042: part 40
+    400044: part 41
+    400046: part 42
+    400048: part 43
+    400050: part 44
+    400052: part 45
+    400054: part 46
+    400056: reflect_box01
+    2300000: part 24
+    2300002: part 25
+    2300004: part 26
+    2300006: part 27
+    2300008: part 28
+    2300010: part 29
+    2300012: part 30
+    2300014: part 31
+    2300016: part 32
+    2300018: part 33
+    2300020: part 34
+    2300022: part 35
+    2300024: part 36
+    2300026: part 37
+    2300028: part 38
+    2300030: part 39
+    2300032: part 40
+    2300034: part 41
+    2300036: part 42
+    2300038: part 43
+    2300040: part 44
+    2300042: part 45
+    2300044: part 46
+    2300046: reflect_box01
+    3300000: part 24
+    3300002: part 25
+    3300004: part 26
+    3300006: part 27
+    3300008: part 28
+    3300010: part 29
+    3300012: part 30
+    3300014: part 31
+    3300016: part 32
+    3300018: part 33
+    3300020: part 34
+    3300022: part 35
+    3300024: part 36
+    3300026: part 37
+    3300028: part 38
+    3300030: part 39
+    3300032: part 40
+    3300034: part 41
+    3300036: part 42
+    3300038: part 43
+    3300040: part 44
+    3300042: part 45
+    3300044: part 46
+    3300046: reflect_box01
+    4300000: part 24
+    4300002: part 25
+    4300004: part 26
+    4300006: part 27
+    4300008: part 28
+    4300010: part 29
+    4300012: part 30
+    4300014: part 31
+    4300016: part 32
+    4300018: part 33
+    4300020: part 34
+    4300022: part 35
+    4300024: part 36
+    4300026: part 37
+    4300028: part 38
+    4300030: part 39
+    4300032: part 40
+    4300034: part 41
+    4300036: part 42
+    4300038: part 43
+    4300040: part 44
+    4300042: part 45
+    4300044: part 46
+    4300046: reflect_box01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
